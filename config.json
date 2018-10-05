@@ -1,0 +1,5 @@
+{
+    "in_folder": "2018-Auris/Logs",
+    "db_folder": "db",
+    "min_time_between_trips_in_minutes": 5
+}
