@@ -4,4 +4,4 @@ echo "CONVERTING CSVs"
 jupyter nbconvert --stdout --execute logParserCSV.ipynb > /dev/null
 
 echo "OPENING"
-jupyter notebook --no-browser --notebook-dir=. &
+jupyter lab --no-browser --notebook-dir=. &

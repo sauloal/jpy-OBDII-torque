@@ -1,5 +1,7 @@
 2017-Aygo/
 2018-Auris/
-*.xlsx
 .ipynb_checkpoints/
 __pycache__/
+
+*.xlsx
+*.csv
